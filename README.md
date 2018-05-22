@@ -1,2 +1,3 @@
-# mk_mark_duplicates
-Step 6 of REeQC
+# mk_rseqc
+rseqc for rna_seq pipeline
+step 6
